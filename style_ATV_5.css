@@ -1,0 +1,23 @@
+.a {list-style-type: upper-roman;}
+.b {list-style-type: upper-roman;}
+.c {list-style-type: upper-roman;}
+.d {list-style-type: upper-roman;}
+.e {list-style-type: upper-roman;}
+
+ 
+
+
+.p1 {list-style-image: url('imagenstransito/placa1.png');}
+.p2 {list-style-image: url('imagenstransito/placa2.png');}
+.p3 {list-style-image: url('imagenstransito/placa3.png');}
+.p4 {list-style-image: url('imagenstransito/placa4.png');}
+.p5 {list-style-image: url('imagenstransito/placa5.png');}
+
+
+
+
+.pai{
+    margin-left:80px;
+    height: 50%;
+   
+}
